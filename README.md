@@ -1,8 +1,8 @@
 # Tree Sys
 
-[Español](/README.md) | [English](docs/README_en.md) |
+[Español](/README.md) | [English](/Docs/README_en.md) |
 
-Una pequeño programa para generar todos los archivos y carpetas a partir de un árbol hecho en texto plano.
+Un pequeño programa para generar todos los archivos y carpetas a partir de un árbol hecho en texto plano.
 
 ## Tabla de Contenidos
 
@@ -26,6 +26,8 @@ Una pequeño programa para generar todos los archivos y carpetas a partir de un 
 - **Manejo de Errores y Logging:**  
   El proyecto implementa manejo de errores mediante bloques `try/except` y utiliza el módulo `logging` para registrar eventos, errores y el flujo de ejecución.
 
+- **Exporta estructura a JSON:**  
+  Contiene un módulo para exportar la estructura resultante en un archivo JSON.
 
 ## Tecnologías Usadas
 
@@ -56,10 +58,9 @@ Un ejemplo de archivo es el siguiente:
 └── README.md
 ```
 
-
 ## Contacto
 
-Carlos D. Díaz Cano
-Correo: carlosd.dc.mx@gmail.com
-[Mi GitHub] (https://github.com/CarlosDDCmx)
+- Carlos D. Díaz Cano
+- Correo: carlosd.dc.mx@gmail.com
+- [Mi GitHub] (https://github.com/CarlosDDCmx)
 
